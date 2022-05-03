@@ -1,0 +1,16 @@
+C:\Users\brufr\Desktop\nivelmedio\m2\bin\Debug\net5.0\m2.exe
+C:\Users\brufr\Desktop\nivelmedio\m2\bin\Debug\net5.0\m2.deps.json
+C:\Users\brufr\Desktop\nivelmedio\m2\bin\Debug\net5.0\m2.runtimeconfig.json
+C:\Users\brufr\Desktop\nivelmedio\m2\bin\Debug\net5.0\m2.runtimeconfig.dev.json
+C:\Users\brufr\Desktop\nivelmedio\m2\bin\Debug\net5.0\m2.dll
+C:\Users\brufr\Desktop\nivelmedio\m2\bin\Debug\net5.0\m2.pdb
+C:\Users\brufr\Desktop\nivelmedio\m2\obj\Debug\net5.0\m2.csproj.AssemblyReference.cache
+C:\Users\brufr\Desktop\nivelmedio\m2\obj\Debug\net5.0\m2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brufr\Desktop\nivelmedio\m2\obj\Debug\net5.0\m2.AssemblyInfoInputs.cache
+C:\Users\brufr\Desktop\nivelmedio\m2\obj\Debug\net5.0\m2.AssemblyInfo.cs
+C:\Users\brufr\Desktop\nivelmedio\m2\obj\Debug\net5.0\m2.csproj.CoreCompileInputs.cache
+C:\Users\brufr\Desktop\nivelmedio\m2\obj\Debug\net5.0\m2.dll
+C:\Users\brufr\Desktop\nivelmedio\m2\obj\Debug\net5.0\ref\m2.dll
+C:\Users\brufr\Desktop\nivelmedio\m2\obj\Debug\net5.0\m2.pdb
+C:\Users\brufr\Desktop\nivelmedio\m2\obj\Debug\net5.0\m2.genruntimeconfig.cache
+C:\Users\brufr\Desktop\nivelmedio\m2\obj\Debug\net5.0\refint\m2.dll

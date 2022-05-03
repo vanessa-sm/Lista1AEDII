@@ -1,0 +1,15 @@
+C:\Users\brufr\Desktop\nivelmedio\m5\obj\Debug\net6.0\m5.csproj.AssemblyReference.cache
+C:\Users\brufr\Desktop\nivelmedio\m5\obj\Debug\net6.0\m5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brufr\Desktop\nivelmedio\m5\obj\Debug\net6.0\m5.AssemblyInfoInputs.cache
+C:\Users\brufr\Desktop\nivelmedio\m5\obj\Debug\net6.0\m5.AssemblyInfo.cs
+C:\Users\brufr\Desktop\nivelmedio\m5\obj\Debug\net6.0\m5.csproj.CoreCompileInputs.cache
+C:\Users\brufr\Desktop\nivelmedio\m5\bin\Debug\net6.0\m5.exe
+C:\Users\brufr\Desktop\nivelmedio\m5\bin\Debug\net6.0\m5.deps.json
+C:\Users\brufr\Desktop\nivelmedio\m5\bin\Debug\net6.0\m5.runtimeconfig.json
+C:\Users\brufr\Desktop\nivelmedio\m5\bin\Debug\net6.0\m5.dll
+C:\Users\brufr\Desktop\nivelmedio\m5\bin\Debug\net6.0\m5.pdb
+C:\Users\brufr\Desktop\nivelmedio\m5\obj\Debug\net6.0\m5.dll
+C:\Users\brufr\Desktop\nivelmedio\m5\obj\Debug\net6.0\refint\m5.dll
+C:\Users\brufr\Desktop\nivelmedio\m5\obj\Debug\net6.0\m5.pdb
+C:\Users\brufr\Desktop\nivelmedio\m5\obj\Debug\net6.0\m5.genruntimeconfig.cache
+C:\Users\brufr\Desktop\nivelmedio\m5\obj\Debug\net6.0\ref\m5.dll
